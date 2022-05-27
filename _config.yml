@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "default"  "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : " ook.github.io"
+title                    : " ookitrighthere.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ook"
+name                     : "ookitrighthere"
 description              : "정리 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ook"
+  name             : "ookitrighthere"
   avatar           : #"https://user-images.githubusercontent.com/42318591/108615416-2e1bb580-7447-11eb-8a54-6338e53ce625.png"
   bio              : "반갑습니다 :)"
   #location         : "Seoul, South Korea"
